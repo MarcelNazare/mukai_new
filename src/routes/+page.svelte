@@ -1,5 +1,5 @@
 
-<div class="">
+<div class="bg-indigo-100">
     <h1>100</h1>
 </div>
 
